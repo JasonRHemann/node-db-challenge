@@ -1,0 +1,16 @@
+{
+  "name": "db-challenge-master",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.20.12",
+    "sqlite3": "^4.1.1"
+  }
+}
